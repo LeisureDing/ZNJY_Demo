@@ -1,0 +1,4 @@
+blue_safe
+red_safe
+blue_start
+red_start

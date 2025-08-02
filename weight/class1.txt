@@ -1,0 +1,8 @@
+yellow_ball
+black_ball
+blue_ball
+red_ball
+yellow_ball_in
+black_ball_in
+blue_ball_in
+red_ball_in
